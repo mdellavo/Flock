@@ -6,7 +6,7 @@
                                            
                                      
 
-An implementation of Craig Renold's boids flocking algorithm I wrote
+An implementation of Craig Reynold's boids flocking algorithm I wrote
 back in 2009.  See http://www.red3d.com/cwr/boids/
 
 
